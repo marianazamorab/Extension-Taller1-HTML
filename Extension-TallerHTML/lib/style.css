@@ -1,0 +1,76 @@
+/* Add your styles here */
+.imagen{
+  background-color: black;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+.informaciond{
+  font-family: Cambria;
+  padding-top: 40px;
+  font-weight: bold;
+}
+
+.informacion{
+  font-family: Cambria;
+  padding-top: 60px;
+  font-weight: bold;
+}
+
+.primera{
+  background-color: darkgray;
+}
+
+.segunda{
+  background-color: grey;
+}
+
+.tercera{
+  background-color: darkgray;
+}
+
+.logo{
+  padding-top: 15px;
+}
+
+.logod{
+  padding-top: 22px;
+}
+
+.sinopsis{
+  background-color: black;
+}
+
+
+.descripcion{
+  padding-top: 30px;
+  color: black;
+  font-size: medium;
+  font-family: Cambria;
+  text-align: justify;
+  background-color: gainsboro;
+}
+
+.inspiraciones{
+  padding-top: 30px;
+  color: black;
+  font-family: Cambria;
+  background-color: gainsboro;
+}
+
+.peliculas{
+  font-family: Cambria;
+  background-color: darkred;
+  color : white;
+}
+
+
+.lista{
+  font-family: Cambria;
+  background-color: gainsboro;
+}
+
+.linkColor{
+  color: brown;
+}
+
